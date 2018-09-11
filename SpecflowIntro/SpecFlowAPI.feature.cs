@@ -24,7 +24,7 @@ namespace SpecflowIntro
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
         
-#line 1 "SpecFlowFeature1.feature"
+#line 1 "SpecFlowAPI.feature"
 #line hidden
         
         [NUnit.Framework.OneTimeSetUpAttribute()]

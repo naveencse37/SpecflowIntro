@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowIntro", "SpecflowIntro\SpecflowIntro.csproj", "{7FD34294-CAEC-4A0E-B754-B2D25FAF7137}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowPractice", "SpecflowIntro\SpecflowPractice.csproj", "{7FD34294-CAEC-4A0E-B754-B2D25FAF7137}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
