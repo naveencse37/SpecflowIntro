@@ -17,7 +17,7 @@ Scenario: I login to UltimateQA website using datatable
 	| username              | password |
 	| naveencse37@gmail.com | 1234abcd |
 	When I click login button
-	Then I verify the title on homepage
+	Then I verify the on username on homepage	
 
 	
 @ScenarioOutline
@@ -37,7 +37,6 @@ Scenario Outline: I login to UltimateQA website using scenariocontext
 	Given I am on ultimate qa login page
 	And I have entered <username> and <password>
 	When I click login button
-	Then I verify the on username on homepage	
 
 Examples:
 | username              | password |

@@ -15,6 +15,7 @@ C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\nunit.framewor
 C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\WebDriver.xml
 C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\bin\Debug\WebDriver.Support.xml
 C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.csprojAssemblyReference.cache
+C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.exe.config
 C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.csproj.CoreCompileInputs.cache
 C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.csproj.CopyComplete
 C:\Users\Nikil\source\repos\SpecflowIntro\SpecflowIntro\obj\Debug\SpecflowIntro.exe
