@@ -5,7 +5,7 @@ using TechTalk.SpecFlow;
 namespace SpecflowIntro.StepDefinitions
 {
     [Binding]
-    public class FirstAPITestSteps
+    public class SpecFlowAPIStepDefinition
     {
         [Given(@"I query the API")]
         public void GivenIQueryTheAPI()

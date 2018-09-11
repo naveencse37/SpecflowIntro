@@ -85,12 +85,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SpecFlowAPI.feature.cs">
+    <Compile Include="Features\SpecFlowAPI.feature.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>SpecFlowAPI.feature</DependentUpon>
     </Compile>
-    <Compile Include="StepDefinitions\FirstAPITestSteps.cs" />
+    <Compile Include="StepDefinitions\SpecFlowAPIStepDefinition.cs" />
     <Compile Include="StepDefinitions\SpecFlowFirstSteps.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -155,7 +155,7 @@
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>SpecFlowFirst.feature.cs</LastGenOutput>
     </None>
-    <None Include="SpecFlowAPI.feature">
+    <None Include="Features\SpecFlowAPI.feature">
       <Generator>SpecFlowSingleFileGenerator</Generator>
       <LastGenOutput>SpecFlowAPI.feature.cs</LastGenOutput>
     </None>
